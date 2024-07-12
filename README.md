@@ -1,2 +1,3 @@
 # bot_exercise
-just for bot sample or bot coding exercise
+이거 봇만들기 연습용임 ㅇㅇ
+어쩌면 프로젝트에도 사용될 수 있음 아마 그럼 ㅇㅇ
